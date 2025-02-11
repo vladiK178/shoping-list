@@ -1,3 +1,3 @@
 # shoping-list
 
-Shopping-list in Vanilla JS
+Shopping list app in Vanilla JavaScript
