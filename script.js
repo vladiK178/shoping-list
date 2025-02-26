@@ -20,6 +20,6 @@ function onAddItemSubmit(e) {
 
   // Validate Input
   if (newItem === '') {
-    alert('Please add an item');
+    
     return;
   }
