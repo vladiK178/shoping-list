@@ -13,7 +13,7 @@ function displayItems() {
 }
 
 function onAddItemSubmit(e) {
-  
+  e.preventDefault();
 
   // trim the input value to remove whitespace - disallowing duplicate items due to white space in the process
   const newItem = itemInput.value.trim();
